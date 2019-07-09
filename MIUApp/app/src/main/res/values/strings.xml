@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">MIUApp</string>
+
+    <string-array name="select1">
+        <item> select </item>
+        <item> Pharmacy </item>
+        <item> Dentistry</item>
+        <item> Alsun </item>
+        <item> Computer Science </item>
+        <item> Architecture </item>
+        <item> Mass Communication </item>
+        <item> Electronics Engeering</item>
+        <item> Bussiness Adminstration </item>
+    </string-array>
+    <string-array name="select2">
+        <item> select </item>
+        <item> Pharmacy </item>
+        <item> Dentistry</item>
+        <item> Alsun </item>
+        <item> Computer Science </item>
+        <item> Architecture </item>
+        <item> Mass Communication </item>
+        <item> Electronics Engeering</item>
+        <item> Bussiness Adminstration </item>
+    </string-array>
+    <string-array name="select3">
+        <item> select </item>
+        <item> Pharmacy </item>
+        <item> Dentistry</item>
+        <item> Alsun </item>
+        <item> Computer Science </item>
+        <item> Architecture </item>
+        <item> Mass Communication </item>
+        <item> Electronics Engeering</item>
+        <item> Bussiness Adminstration </item>
+    </string-array>
+
+    <string-array name="select4">
+        <item> select </item>
+        <item> American Diploma </item>
+        <item> Azharia Thanwia</item>
+        <item> Candian Thanwia </item>
+        <item> Egyptian Thanwia </item>
+        <item> German Certificate </item>
+        <item> Italian Certificate</item>
+        <item> Kuwaiti Thanwia</item>
+        <item> Lybian Thanwia </item>
+        <item> Saudi Thanwia </item>
+    </string-array>
+
+    <string-array name="select5">
+        <item> select </item>
+        <item> Science </item>
+        <item> Math</item>
+        <item> Arts </item>
+
+    </string-array>
+    <string-array name="country">
+        <item> Select </item>
+        <item> Egypt </item>
+        <item> Colombia </item>
+        <item> China </item>
+        <item> Armenia </item>
+        <item> Australia </item>
+
+    </string-array>
+    <string-array name="city">
+        <item> select </item>
+        <item> Cairo </item>
+        <item> Giza </item>
+        <item> Luxor </item>
+        <item> Minia </item>
+        <item> Aswan </item>
+    </string-array>
+    <string-array name="name">
+        <item> select </item>
+        <item> Abbas Secondry language school </item>
+        <item> Abdel Aziz School </item>
+        <item> Abo Bakr El Sedeek  </item>
+        <item> Agyad Private language school </item>
+        <item> Ahmed Orabi Secondry School </item>
+        <item> Ain Shams Secondry School </item>
+        <item> Egyption International School </item>
+    </string-array>
+    <string-array name="year">
+        <item> select </item>
+        <item> 2019 </item>
+        <item> 2018 </item>
+        <item> 2017 </item>
+
+    </string-array>
+    <string-array name="day">
+        <item> select </item>
+        <item> 10/2/2019 </item>
+        <item> 11/2/2019 </item>
+        <item> 13/2/2019 </item>
+        <item> 14/2/2019 </item>
+        <item> 15/2/2019 </item>
+        <item> 16/2/2019 </item>
+        <item> 17/2/2019 </item>
+        <item> 20/2/2019 </item>
+        <item> 21/2/2019 </item>
+
+    </string-array>
+    <string-array name="time">
+        <item> select </item>
+        <item> From 9:00 to 11:00 </item>
+        <item> From 12:00 to 2:00 </item>
+    </string-array>
+    <string-array name="numbers">
+        <item> select </item>
+        <item> Egypt </item>
+        <item> Colombia </item>
+        <item> China </item>
+        <item> Armenia </item>
+        <item> Australia </item>
+    </string-array>
+
+    <string-array name="area">
+        <item> select </item>
+        <item> 6 october </item>
+        <item> Faisal </item>
+        <item> Haram </item>
+        <item> Dokky </item>
+        <item> Agouza </item>
+    </string-array>
+    <string-array name="procat">
+        <item> Select </item>
+        <item> Engeering </item>
+        <item> Airlines </item>
+        <item> Banking </item>
+        <item> Policeman </item>
+        <item> Doctor </item>
+        <item> Bussinessman </item>
+        <item> Teatcher </item>
+        <item> Finance </item>
+        <item> ProfessionCategory </item>
+    </string-array>
+    <string-array name="select6">
+        <item> اختر.. </item>
+        <item> يوجد </item>
+        <item> لا يوجد </item>
+
+    </string-array>
+    <string-array name="select7">
+        <item> اختر.. </item>
+        <item> يوجد </item>
+        <item> لا يوجد </item>
+
+    </string-array>
+
+    <string-array name="select8">
+        <item> اختر.. </item>
+        <item> يوجد </item>
+        <item> لا يوجد </item>
+
+    </string-array>
+    <string-array name="select9">
+        <item> اختر.. </item>
+        <item> يوجد </item>
+        <item> لا يوجد </item>
+
+    </string-array>
+    <string-array name="select10">
+        <item> اختر.. </item>
+        <item> يوجد </item>
+        <item> لا يوجد </item>
+
+    </string-array>
+
+    <string-array name="gen">
+        <item> Select </item>
+        <item> Female </item>
+        <item> Male </item>
+
+
+    </string-array>
+
+    <string-array name="place">
+        <item> Select </item>
+        <item> Egypt </item>
+        <item> Colombia </item>
+        <item> China </item>
+        <item> Armenia </item>
+        <item> Australia </item>
+
+    </string-array>
+
+    <string-array name="religion">
+        <item> Select </item>
+        <item> Muslim </item>
+        <item> Christian </item>
+
+
+    </string-array>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
+
